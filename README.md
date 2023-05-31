@@ -33,7 +33,8 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
+![Screenshot 2023-05-30 191204](https://github.com/Hemasonica774/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/118361409/949244ea-df79-45d0-8425-ad32657ef9d9)
+
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/118361409/234479145-64a027a1-cff3-47c5-be85-477aabf8d82d.png)
